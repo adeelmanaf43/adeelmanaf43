@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adeelmanaf43
 - 👀 I’m interested in Data Science, Machine Learning and ReactJS.
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Data Science and working as a freelancer in data science also.
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning using python and R and React JS.
 - 📫 How to reach me adeelmanaf00@gmail.com
 
