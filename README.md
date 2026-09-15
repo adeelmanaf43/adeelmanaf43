@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @adeelmanaf43
-- 👀 I’m interested in Data Science, Machine Learning and ReactJS.
-- 🌱 I’m currently learning Data Science and working as a freelancer in data science also.
-- 💞️ I’m looking to collaborate on Data Science and Machine Learning using python and R and React JS.
-- 📫 How to reach me adeelmanaf00@gmail.com
+# Hi, I'm Adeel Manaf 👋
 
-<!---
-adeelmanaf43/adeelmanaf43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Python and Applied AI developer with 6+ years of freelance delivery experience and 1,000+ paid client engagements.
+
+## What I work with
+
+- Python, FastAPI, REST APIs
+- Machine Learning and Data Analysis
+- SQL, PostgreSQL, SQLite
+- R and Statistical Analysis
+- Applied AI and LLM integrations
+- Document Intelligence and OCR
+- Git, pytest, Pydantic
+
+## Current Focus
+
+Building production-oriented AI applications with Python and FastAPI, including structured AI workflows, document processing, testing, and deployment practices.
+
+## Featured Work
+
+- Sales Analysis Dashboard
+- DocuLedger — AI-Assisted Invoice Processing Platform
+- More portfolio projects coming soon
+
+## Connect
+
+LinkedIn: linkedin.com/in/adeel-manaf  
+Email: adeelmanaf00@gmail.com
